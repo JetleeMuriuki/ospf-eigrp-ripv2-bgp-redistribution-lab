@@ -95,7 +95,6 @@ tracert <remote-LAN-PC-IP>
 |---|---|
 | `redistribution.pkt` | Full Packet Tracer project file |
 | `topology.png` | Topology screenshot |
-| `configs/` | Exported running-configs for each router (`.txt`) |
 
 ## Tools Used
 
